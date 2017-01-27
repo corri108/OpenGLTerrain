@@ -1,0 +1,25 @@
+Final Exam:
+
+1. Bresenham's algorithm.
+	-> be able to digitize line, just like question #5 on the midterm.
+2. Aliasing
+	->what is it?
+	->what do we do to get around it?
+3. Transformations
+	->Scale
+	->Rotate
+	->Translate
+	->Know how to apply them, 2D, matricies (FUCK)
+4. Cohen-Sutherland line clipping
+	->2D->3D case for line clipping
+	-> Its in the book
+5. Different lighting techniques
+	->Ambient
+	->Diffuse
+	->Specular
+	->Phong(combined)
+6. Color models
+	->RGB
+	->RGBA
+	->CYM
+7. Write Code!!! 
